@@ -1,3 +1,4 @@
+archive: true
 install:
   - true
 script: 
