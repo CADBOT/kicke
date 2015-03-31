@@ -1,0 +1,3 @@
+[submodule "vendor/continuous-code-review"]
+	path = vendor/continuous-code-review
+	url = https://github.com/CADBOT/continuous-code-review.git
