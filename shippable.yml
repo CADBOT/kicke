@@ -7,3 +7,5 @@ notifications:
   irc:
     channels:
       - "chat.freenode.net#google-containers"
+    template:
+      - "%{author} has pushed a commit"
